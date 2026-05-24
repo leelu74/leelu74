@@ -1,4 +1,4 @@
-# Hi there, I'm [Lee-la-dar Call Me "Lee-lu"] 👋
+# Hi there, I'm [leeladhar Call Me "Lee-lu"] 👋
 
 ## 🚀 About Me
 Full-stack developer passionate about building scalable applications and solving real-world problems with technology. Currently focusing on ERP systems, IoT solutions, and modern web development.
